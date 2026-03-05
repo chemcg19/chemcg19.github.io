@@ -12,7 +12,7 @@ masthead_title: "" # overrides the website title displayed in the masthead, use 
 copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 # Theme settings (used by the existing CSS)
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 favicon: "/assets/images/favicon-16x16.png" # Favicon path (update this file)
 favicon_version: 1 # Increment to force browsers to refresh the favicon
 
@@ -57,23 +57,18 @@ footer: # Site footer
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
       # url:
-      target: "_blank"
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
       # url:
-      target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
       # url:
-      target: "_blank"
     - label: "Bitbucket" # Bitbucket link
       icon: "fab fa-fw fa-bitbucket"
       # url:
-      target: "_blank"
     - label: "Instagram" # Instagram link
       icon: "fab fa-fw fa-instagram"
       # url:
-      target: "_blank"
   since: "2026" # Year shown in the footer
 
 
