@@ -59,7 +59,7 @@ footer: # Site footer
       # url:
     - label: "GitHub" # GitHub link
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/chemcg19"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
       # url:
