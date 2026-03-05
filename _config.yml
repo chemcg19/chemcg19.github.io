@@ -20,7 +20,7 @@ favicon_version: 1 # Increment to force browsers to refresh the favicon
 
 # Site Author
 author:
-  name: "Student Name" # Name of the student
+  name: "Che McGartland" # Name of the student
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Add short bio here" # Bio of the student
   location: "Add location here" # Location of the student
