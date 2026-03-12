@@ -1,11 +1,13 @@
 ---
-title: "Projects"
+title: "My Portfolio"
 layout: single
 permalink: /projects/
 sidebar:
   title: "Projects"
   nav:
-    - projects
+    - solo projects
+    - group work
+    - game jam
 ---
 
 ### My Projects
