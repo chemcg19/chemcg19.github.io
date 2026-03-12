@@ -4,7 +4,6 @@ layout: single
 permalink: /projects/
 sidebar:
   title: "Solo Projects"
-    nav: "projects"
 ---
 
 ### My Projects
