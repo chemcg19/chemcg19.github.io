@@ -5,6 +5,7 @@ permalink: /projects/
 sidebar:
   title: "Solo Projects"
   title: "Group Work"
+    nav: "projects"
 ---
 
 ### My Projects
