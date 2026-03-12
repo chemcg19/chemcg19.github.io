@@ -8,9 +8,23 @@ sidebar:
     - projects
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
+### My Projects
 
-You can use this page to show a reel of all projects and then have a separate page for each project.
+Showcase of key projects i've worked on which show my skillset in a wide variety of game development areas.
+
+<!-- LEFT: text content -->
+<div style="flex:1 1 250px; min-width:250px;">
+<h2>1st yr Project Game - 2D Platformer</h2>
+<p>
+As part of a team, I helped design and build a 2D Platform game for my course
+in module CRE135: 2D Game Creation.
+</p>
+</div>
+<!-- RIGHT: video/content area -->
+<div style="flex:1 1 250px; min-width:250px;">
+<!-- Replace this placeholder with a YouTube iframe or a video tag -->
+{% include video id="0kqjCnl2jgs" provider="youtube" %}
+</div>
 
 
 
