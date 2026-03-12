@@ -8,4 +8,4 @@ permalink: /about-me/
 
 Information about my professional experience and goals.
 
-![Solo 2D Adventure Game](/assets/images/example-ss.png "example-ss")
+{% include figure image_path="/assets/images/example-ss.png" alt="Game Jam screenshot" caption="Example Screenshot" %}
