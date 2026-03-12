@@ -16,8 +16,7 @@ Showcase of key projects i've worked on which show my skillset in a wide variety
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
 <p>
-As part of a team, I helped design and build a 2D Platform game for my course
-in module CRE135: 2D Game Creation.
+As part of a coursework assignment, I created my own 2D adventure game.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
