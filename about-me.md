@@ -10,7 +10,6 @@ Information about my professional experience and goals.
 
 {% include figure image_path="/assets/images/example-ss.png" alt="Game Jam screenshot" caption="Example Screenshot" %}
 
-div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>1st yr Project Game - 2D Platformer</h2>
@@ -22,6 +21,5 @@ in module CRE135: 2D Game Creation.
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
-</div>
+{% include video id="0kqjCnl2jgs" provider="youtube" %}
 </div>
