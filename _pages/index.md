@@ -3,7 +3,7 @@ title: "Page Title"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#001"
+  overlay_color: "#7F0099"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unityprojectscreenshot.png
   actions:
