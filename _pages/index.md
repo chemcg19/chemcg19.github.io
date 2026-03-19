@@ -14,9 +14,9 @@ header:
 
 excerpt: "You can add text here."
 intro: 
-  - excerpt: 'Showcase of my highlighted projects'
+  - excerpt: 'Highlighted Projects'
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/example-ss.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
