@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#001"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/example-ss.png
+  overlay_image: /assets/images/unityprojectscreenshot.png
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
