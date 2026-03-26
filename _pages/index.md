@@ -16,14 +16,14 @@ excerpt: "You can add text here."
 intro: 
   - excerpt: 'Highlighted Projects'
 feature_row:
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/2DScreenshot.png
+    alt: "2D Game Screenshot"
+    title: "Solo 2D Adventure Game"
+    excerpt: "This is my main solo project assignment, featuring platforming, combat, and follower mechanics."
+  - image_path: /assets/images/3DScreenshot.png
+    alt: "3D Game Screenshot"
+    title: "Solo 3D Horror Game"
+    excerpt: "This is my secondary solo project assignment, featuring detailed lighting and monster chasing mechanics."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
