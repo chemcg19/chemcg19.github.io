@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "Che McGartland"
 layout: splash
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Game Development Portfolio."
 intro: 
   - excerpt: 'Highlighted Projects'
 feature_row:
