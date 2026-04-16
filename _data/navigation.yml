@@ -5,9 +5,9 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "About Me"
-    url: /about-me/default/
+    url: /about-me/
   - title: "Contact"
-    url: /contact/default/
+    url: /contact/
 projects:
   - title: "University"
     url: /projects/university/
