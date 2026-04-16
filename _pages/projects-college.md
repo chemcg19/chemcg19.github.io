@@ -16,7 +16,7 @@ sidebar:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Showcase Video</h2>
 <p>
-> Basic walkthrough showcasing the models I've created and imported, and the basic Unity features I added.
+*Basic walkthrough showcasing the models I've created and imported, and the basic Unity features I added.*
 </p>
 </div>
 <!-- RIGHT: video/content area -->
@@ -33,7 +33,7 @@ sidebar:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Showcase Video</h2>
 <p>
-> Video of me playing the VR demo and showcasing interaction functionality and movement mechanics.
+*Video of me playing the VR demo and showcasing interaction functionality and movement mechanics.*
 </p>
 </div>
 <!-- RIGHT: video/content area -->
@@ -50,7 +50,7 @@ sidebar:
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Showcase Video</h2>
 <p>
-> Video Walkthrough showing everything from the start menu to the end screen.
+*Video Walkthrough showing everything from the start menu to the end screen.*
 </p>
 </div>
 <!-- RIGHT: video/content area -->
@@ -72,7 +72,7 @@ I took up the role of leader in this project, and my main role was level design.
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Showcase Video</h2>
 <p>
-> Video Walkthrough showing each member's level and each mechanic in the game.
+*Video Walkthrough showing each member's level and each mechanic in the game.*
 </p>
 </div>
 <!-- RIGHT: video/content area -->
