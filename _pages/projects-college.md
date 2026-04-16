@@ -11,7 +11,7 @@ sidebar:
 ## First Year
 > ### First 3D Project
 >> This was my very first Unity project, and was created to display my understanding of basic asset modelling, texturing and exporting. As well as simple Unity tools such as terrain building, lighting, importing assets, using (3D) audio, and a player controller.
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+> <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Showcase Video</h2>
