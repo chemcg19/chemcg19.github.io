@@ -4,6 +4,8 @@ layout: single
 permalink: /projects/
 sidebar:
   title: "Solo Projects"
+  nav:
+    - First Year University
 ---
 
 ### My Projects
