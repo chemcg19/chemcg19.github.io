@@ -1,6 +1,6 @@
 ---
 title: "My Portfolio"
-layout: single
+layout: double
 permalink: /projects/
 sidebar:
   title: "Solo Projects"
