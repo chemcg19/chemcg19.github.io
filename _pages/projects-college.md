@@ -10,7 +10,7 @@ sidebar:
 
 # First Year
 ## First 3D Project
-> <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Showcase Video</h2>
@@ -30,7 +30,7 @@ sidebar:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>Showcase Video</h2>
+<h3>Showcase Video</h3>
 <p>
 <em>Video of me playing the VR demo and showcasing interaction functionality and movement mechanics.</em>
 </p>
@@ -76,8 +76,9 @@ sidebar:
 {% include video id="NmSUEt-Ol_Q" provider="youtube" %}
 </div>
 </div>
+
 > This was my final project at college, a 4-person group project creating a complete 3D game in 3 months. Each member had to contribute:
->> - At least 1 level of their own
->> - 1 textured model of their own
->> - Some kind of written code.
-> I took up the role of leader in this project, and my main role was level design. I created 2 full levels, both with intricate features like fog effects, item pickups, enemies, audio effects, lighting, and many more minor features along with terrain design and building design using our own assets and imported assets. Alongside this, my role included handling the main project. This meant communicating with each team member so there are no conflicts, importing their work e.g. code and levels, and fixing them up (adding audio, lighting, fixing bugs, etc.)
+> - At least 1 level of their own
+> - 1 textured model of their own
+> - Some kind of written code.
+I took up the role of leader in this project, and my main role was level design. I created 2 full levels, both with intricate features like fog effects, item pickups, enemies, audio effects, lighting, and many more minor features along with terrain design and building design using our own assets and imported assets. Alongside this, my role included handling the main project. This meant communicating with each team member so there are no conflicts, importing their work e.g. code and levels, and fixing them up (adding audio, lighting, fixing bugs, etc.)
