@@ -21,9 +21,3 @@ As part of a coursework assignment, I created my own 2D adventure game.
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
 {% include video id="0kqjCnl2jgs" provider="youtube" %}
 </div>
-
-
-
-
-
-
