@@ -11,7 +11,7 @@ Welcome to my projects page. This is a showcase of key projects i've worked on w
 
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>1st yr Project Game - 2D Platformer</h2>
+<h2>First Year of University Project - 2D Platformer Game</h2>
 <p>
 As part of a coursework assignment, I created my own 2D adventure game.
 </p>
