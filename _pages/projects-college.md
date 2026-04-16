@@ -41,6 +41,7 @@ sidebar:
 > - At least 1 level of their own
 > - 1 textured model of their own
 > - Some kind of written code.
+<p>
 > I took up the role of leader in this project, and my main role was level design. I created 2 full levels, both with intricate features like fog effects, item pickups, enemies, audio effects, lighting, and many more minor features along with terrain design and building design using our own assets and imported assets. Alongside this, my role included handling the main project. This meant communicating with each team member so there are no conflicts, importing their work e.g. code and levels, and fixing them up (adding audio, lighting, fixing bugs, etc.) 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
