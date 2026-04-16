@@ -5,7 +5,7 @@ permalink: /projects/
 sidebar:
   title: "Projects"
   nav:
-    - First Year University
+    - projects
 ---
 Welcome to my projects page. This is a showcase of key projects i've worked on which show my skillset in a wide variety of game development areas.
 
