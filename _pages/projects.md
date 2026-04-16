@@ -7,10 +7,7 @@ sidebar:
   nav:
     - First Year University
 ---
-
-### My Projects
-
-Showcase of key projects i've worked on which show my skillset in a wide variety of game development areas.
+Welcome to my projects page. This is a showcase of key projects i've worked on which show my skillset in a wide variety of game development areas.
 
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
