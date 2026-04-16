@@ -3,7 +3,7 @@ title: "My Portfolio"
 layout: single
 permalink: /projects/
 sidebar:
-  title: "Solo Projects"
+  title: "Projects"
   nav:
     - First Year University
 ---
