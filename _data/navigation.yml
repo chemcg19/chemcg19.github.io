@@ -9,7 +9,7 @@ main:
   - title: "Contact"
     url: /contact/default/
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "University"
+    url: /projects/university/
+  - title: "College"
+    url: /projects/college/
