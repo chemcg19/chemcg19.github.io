@@ -9,6 +9,7 @@ sidebar:
 ---
 
 # First Year
+
 ## First 3D Project
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
