@@ -13,7 +13,7 @@ sidebar:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>Showcase Video</h2>
+<h3>Showcase Video</h3>
 <p>
 <em>Basic walkthrough showcasing the models I've created and imported, and the basic Unity features I added.</em>
 </p>
@@ -47,7 +47,7 @@ sidebar:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>Showcase Video</h2>
+<h3>Showcase Video</h3>
 <p>
 <em>Video Walkthrough showing everything from the start menu to the end screen.</em>
 </p>
@@ -65,7 +65,7 @@ sidebar:
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
 <div style="flex:1 1 250px; min-width:250px;">
-<h2>Showcase Video</h2>
+<h3>Showcase Video</h3>
 <p>
 <em>Video Walkthrough showing each member's level and each mechanic in the game.</em>
 </p>
