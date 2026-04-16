@@ -8,5 +8,5 @@ sidebar:
     - projects
 ---
 
-This page is another project page that is nested within Projects.
+This page will show the projects I worked on during my 2 years studying at technical college.
 
