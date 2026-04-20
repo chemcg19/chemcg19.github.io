@@ -19,3 +19,5 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner
+
+{% include skills skills=page.skills %}
