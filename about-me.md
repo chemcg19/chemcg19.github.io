@@ -6,16 +6,20 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
-    years: 2
+    text: "Built multiple demos both independantly and in a team."
+    years: 4
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
-    badges: ["Game Mechanics", "Levels", "UI"]
-    text: "Designed mechanics, levels, and player feedback loops."
-    level_label: "Beginner"
+    badges: ["Game Mechanics", "Levels", "UI", "Audio and Lighting"]
+    text: "Designed mechanics, levels, prototyped levels and features, and implemented features like lighting and UI elements, etc."
+    level_label: "Intermediate/Proficient"
+  - name: "C#"
+    icon: "fab fa-fw fa-file-code-o"
+    text: "Coded multiple intricate mechanics on a wide variety of game objects, including player, enemy, NPC, follower, and environment/interactable scripts."
+    level_label: "Intermediate"
 ---
 
 ### About Me
 
-## 12. Skills - The Skills content is in the `head` of this page. Look at the `skills` include for available keys. Use <a href="https://fontawesome.com/icons" target="_blank" rel="noopener noreferrer">Font Awesome</a> for icons. {#skills}
+## My Skills {#skills}
 {% include skills skills=page.skills %}
