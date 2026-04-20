@@ -19,7 +19,7 @@ skills:
     level_label: "Intermediate"
 ---
 
-### About Me
+# About Me
 
 ## My Skills {#skills}
 {% include skills skills=page.skills %}
