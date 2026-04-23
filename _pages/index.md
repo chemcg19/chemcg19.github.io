@@ -14,7 +14,7 @@ header:
 
 excerpt: "Game Development Portfolio."
 intro: 
-  - ## excerpt: 'Highlighted Projects'
+  - excerpt: '**Highlighted Projects**'
 feature_row:
   - image_path: /assets/images/2DScreenshot.png
     alt: "2D Game Screenshot"
