@@ -14,7 +14,7 @@ skills:
     text: "Designed mechanics, levels, prototyped levels and features, and implemented features like lighting and UI elements, etc."
     level_label: "Intermediate/Proficient"
   - name: "C#"
-    icon: "fas fa-fw fa-file-code-o"
+    icon: "fas fa-fw fa-gamepad"
     text: "Coded multiple intricate mechanics on a wide variety of game objects, including player, enemy, NPC, follower, and environment/interactable scripts."
     level_label: "Intermediate"
 ---
