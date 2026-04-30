@@ -40,7 +40,7 @@ in module CRE135: 2D Game Creation.
 <!-- RIGHT: video/content area -->
 <div style="flex:1 1 250px; min-width:250px;">
 <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-{% include figure image_path="/assets/images/GameJam2024.png" alt="Game Jam screenshot" caption="My Game Jam 2024 Submission" %}
+{% include figure image_path="/assets/images/Game_jam2024.png" alt="Game Jam screenshot" caption="My Game Jam 2024 Submission" %}
 </div>
 </div>
 
