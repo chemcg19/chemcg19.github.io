@@ -28,5 +28,21 @@ skills:
 
 # About Me
 
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+<!-- LEFT: text content -->
+<div style="flex:1 1 250px; min-width:250px;">
+<h2>Hi, I'm Che, a games design and development student based in Derry</h2>
+<p>
+I am currently studying at Ulster University, developing my skills and passion for working on both solo projects and group projects. I am efficient and reliable in Unity and C#, and am also developing my skills in modelling, texturing, and 2D art.
+in module CRE135: 2D Game Creation.
+</p>
+</div>
+<!-- RIGHT: video/content area -->
+<div style="flex:1 1 250px; min-width:250px;">
+<!-- Replace this placeholder with a YouTube iframe or a video tag -->
+{% include figure image_path="/assets/images/GameJam2024.png" alt="Game Jam screenshot" caption="My Game Jam 2024 Submission" %}
+</div>
+</div>
+
 ## My Skills {#skills}
 {% include skills skills=page.skills %}
