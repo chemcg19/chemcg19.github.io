@@ -34,7 +34,6 @@ skills:
 <h2>Hi, I'm Che, a Games Design and Development student based in Derry</h2>
 <p>
 I am currently studying at Ulster University, developing my skills and passion for working on both solo projects and group projects. I am efficient and reliable in Unity and C#, and am also developing my skills in modelling, texturing, and 2D art.
-in module CRE135: 2D Game Creation.
 </p>
 </div>
 <!-- RIGHT: video/content area -->
