@@ -13,7 +13,7 @@ sidebar:
 
 This is a solo 2D project that took 2-3 months to develop. The game features basic movement mechanics, animated pathfinding enemies that do damage, various audio features, and a personal follower, acting as a light source for the player. Thoughtful unique mechanics and atmospheric lighting effects earned approval from examiners.
 
-{% include quote text="This was the most polished student game I have ever played in my life!" author="Lecturer Feedback" colour=black %}
+{% include quote text="An impressive submission for a first year student, demonstrates a strong technical baseline and discipline in Unity." author="Dr. Darryl Charles" colour=black %}
 
 <div style="flex:1 1 250px; min-width:250px;">
 <h2>Video Walkthrough and Project Showcase</h2>
