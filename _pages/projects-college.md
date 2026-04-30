@@ -44,6 +44,8 @@ sidebar:
 </div>
 > This was my first VR project, making a basic demo showing basic VR movement and interaction mechanics. I also modelled and textured all assets inside the scene, as well as some light terrain and lighting.
 
+# Second Year
+
 ## 2024 Game Jam
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 <!-- LEFT: text content -->
