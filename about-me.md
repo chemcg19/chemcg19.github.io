@@ -16,6 +16,7 @@ skills:
     years: 4
   - name: "C#"
     icon: "fas fa-fw fa-gamepad"
+    badges: ["Movement", "Combat", "UI", "Quests and Interactables"]
     text: "Coded multiple intricate mechanics on a wide variety of game objects, including player, enemy, NPC, follower, and environment/interactable scripts."
     level_label: "Intermediate"
     years: 3
