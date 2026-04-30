@@ -22,6 +22,7 @@ skills:
     years: 3
   - name: "Modelling and Texturing"
     icon: "fas fa-fw fa-gamepad"
+    badges: ["Maya 3D", "Substance Painter", "Photoshop", "Libresprite", "Normal Maps, Roughness Maps, etc."]
     text: "Built multiple 3D models in Maya and textured them myself using Substance Painter and Photoshop, imported them into Unity with proper scaling and texture maps. Created multiple of my own 2D sprites for my games."
     level_label: "Beginner"
     years: 4
